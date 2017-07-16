@@ -12,6 +12,7 @@ int main(int argc, char *argv[])
 		printf("You must drag and drop your binary onto this .exe \n");
 		printf("Press any key to exit . . .");
 		getchar();
+		return 0;
 	}
 
 
@@ -64,4 +65,5 @@ int main(int argc, char *argv[])
 	printf("AOB Header File Created!\n");
 	printf("Press Any Key To Exit");
 	getchar();
+	return 0;
 }
