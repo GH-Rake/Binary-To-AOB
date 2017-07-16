@@ -6,7 +6,6 @@
 
 int main(int argc, char *argv[])
 {
-
 	if (!argv[1])
 	{
 		printf("You must drag and drop your binary onto this .exe \n");
@@ -14,7 +13,6 @@ int main(int argc, char *argv[])
 		getchar();
 		return 0;
 	}
-
 
 	//create input file stream
 	std::ifstream binary(argv[1], std::ios::binary | std::ios::ate);
