@@ -2,8 +2,7 @@
 
 Generate an array of bytes and stores it in an easy to use header file from a binary file on disk.
 
-Output:
-[binary.h](https://image.prntscr.com/image/mLg9tFAuTKuDdA8GTt8xKA.png)
+![Output: binary.h](https://image.prntscr.com/image/mLg9tFAuTKuDdA8GTt8xKA.png Output: binary.h)
 
 ## Why?
 
