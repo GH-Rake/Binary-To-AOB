@@ -12,6 +12,8 @@ This code was requested.  Maybe you don't want to ship your .exe with additional
 
 Drag and drop your binary onto BinaryToAOB.exe and the generated header file will be placed in the same folder as the binary.
 
+https://guidedhacking.com/showthread.php?9340-Binary-To-Array-of-Bytes-Dumper
+
 ## TODO
 
 ## Credits
