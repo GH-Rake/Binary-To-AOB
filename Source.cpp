@@ -4,7 +4,7 @@
 #include <iostream>
 #include <fstream>
 
-int main(int argc, char *argv[])
+int main(int argc, char* argv[])
 {
 	if (!argv[1])
 	{
@@ -21,7 +21,7 @@ int main(int argc, char *argv[])
 	auto size = binary.tellg();
 
 	//create aob to store file bytes
-	unsigned char * aob = new unsigned char[size];
+	unsigned char* aob = new unsigned char[size];
 
 	//seek to begin of file
 	binary.seekg(0, std::ios::beg);
@@ -59,7 +59,7 @@ int main(int argc, char *argv[])
 	header << "};";
 
 	header.close();
-	delete aob;
+	delete[] aob;
 	printf("AOB Header File Created!\n");
 	printf("Press Any Key To Exit");
 	getchar();
