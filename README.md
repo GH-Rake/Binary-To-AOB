@@ -2,7 +2,7 @@
 
 Generate an array of bytes and stores it in an easy to use header file from a binary file on disk.
 
-![Output: binary.h](https://image.prntscr.com/image/mLg9tFAuTKuDdA8GTt8xKA.png Output: binary.h)
+![](https://image.prntscr.com/image/mLg9tFAuTKuDdA8GTt8xKA.png)
 
 ## Why?
 
@@ -12,7 +12,7 @@ This code was requested.  Maybe you don't want to ship your .exe with additional
 
 Drag and drop your binary onto BinaryToAOB.exe and the generated header file will be placed in the same folder as the binary.
 
-https://guidedhacking.com/showthread.php?9340-Binary-To-Array-of-Bytes-Dumper
+https://guidedhacking.com/threads/binary-to-array-of-bytes-dumper.9340/
 
 ## TODO
 
