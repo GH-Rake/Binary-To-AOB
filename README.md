@@ -2,7 +2,8 @@
 
 Generate an array of bytes and stores it in an easy to use header file from a binary file on disk.
 
-![](https://image.prntscr.com/image/mLg9tFAuTKuDdA8GTt8xKA.png)
+![image](https://github.com/GH-Rake/Binary-To-AOB/assets/15186628/47c1b3c8-5a79-4421-89fb-db1bcd6338f9)
+
 
 ## Why?
 
